@@ -1,0 +1,23 @@
+{
+  "name": "linkit",
+  "version": "0.2.0",
+  "description": "to help link it",
+  "main": "jquery.linkIt.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddemirates/jquery.linkit.git"
+  },
+  "keywords": [
+    "link",
+    "it"
+  ],
+  "author": "dhruv dholakia",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/ddemirates/jquery.linkit/issues"
+  },
+  "homepage": "https://github.com/ddemirates/jquery.linkit"
+}
